@@ -1,0 +1,12 @@
+Day 3 - Conditional If/Else statements
+
+if condition:
+	do this
+elif: 
+	do this
+else: 
+	do this
+
+Comparison
+== equals to
+!= not equals to
