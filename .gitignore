@@ -1,2 +1,8 @@
-/code/*/.idea/
+**/.idea/*
 /code/*/venv/
+/code/*/.idea/*
+*/.idea/workspace.xml 
+*/.idea/tasks.xml
+.idea/*
+.*
+!.*/
