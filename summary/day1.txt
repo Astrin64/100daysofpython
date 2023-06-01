@@ -1,0 +1,25 @@
+git status 
+shows commits and changes to be committed in the branch
+
+touch - creates a file
+
+pwd - print working directory
+
+ls - lists files in dir
+
+mkdir
+
+echo " " >> file.txt
+adds text to file.txt
+
+git add file.txt
+adds file.txt to the branch
+
+git remote -v
+shows origin locations for fetch and push
+
+git push  -u origin main
+pushes changes to main branch
+
+print(" ")
+prints text to console

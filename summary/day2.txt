@@ -1,0 +1,19 @@
+Data Types and Manipulating Strings
+
+int()
+converts a number to integer
+
+round()
+rounds a number to nearest whole number
+
+round(2.666666, 2)
+rounds number to 2 decimal places - 2.67
+
+//Any math operation always results in float datatype
+
+floor division: print(8 // 3)
+converts float from operation to int 
+
+f-Strings
+Removes need to concatenate strings and need to convert variables
+print(f"Your score is {score}, your height is {height}, you're winning is {isWinning}")
