@@ -39,4 +39,26 @@ my_function()
 #     jump()
 #     num_of_hurdles -=1
 
-#Karel - reeborg.ca - Hurdle 2
+
+#Karel - reeborg.ca - Hurdle 4
+# def turn_right():
+#     turn_left()
+#     turn_left()
+#     turn_left()
+#
+# def jump():
+#     turn_left()
+#     while wall_on_right():
+#         move()
+#     turn_right()
+#     move()
+#     turn_right()
+#     while front_is_clear():
+#         move()
+#     turn_left()
+#
+# while not at_goal():
+#     if wall_in_front():
+#         jump()
+#     else:
+#         move()
