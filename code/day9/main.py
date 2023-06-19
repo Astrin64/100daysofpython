@@ -26,3 +26,26 @@ for key in programming_dictionary:
     print(key)
     print(programming_dictionary[key])
     #prints out both the name and values
+
+#Nesting dictionary and list inside dictionary
+travel_log = {
+    "France": {"cities_visited": ["Paris", "Lille", "Dijon"], "total_visits": 12},
+    "Germany": ["Berlin", "Hamburg"],
+    "UK": {"cities": ["London"], "total_visits": 5}
+}
+
+#Nesting dictionary in list
+travel_list = [
+    {
+        "country": "France",
+        "cities_visited": ["Paris", "Lille", "Dijon"],
+        "total_visits": 12
+    },
+    {
+        "country": "Germany",
+        "cities_visited": ["Berlin", "Hamburg"],
+        "total_visits": 5
+    }
+]
+
+
